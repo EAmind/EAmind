@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EAmind
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on hEEELP!!
-- 📫 How to reach me hELP!!
+- 👀 Coding day by day!
+- 🌱 I’m currently hammering about in HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on everything and anything.
+- 📫 How to reach me elias.akbarian@gmail.com
 
 <!---
 EAmind/EAmind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
