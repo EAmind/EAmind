@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EAmind
 - 👀 Coding day by day!
-- 🌱 I’m currently hammering about in HTML, CSS and JavaScript
+- 🌱 One step at a time
 - 💞️ I’m looking to collaborate on everything and anything.
 - 📫 How to reach me elias.akbarian@gmail.com
 
